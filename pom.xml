@@ -16,8 +16,8 @@
 			<!-- <scope>provided</scope> -->
 		</dependency>
 		<dependency>
-			<i am tring with trigger job>
-			<groupId>junit</groupId>
+			
+		        <groupId>junit</groupId>
 			<artifactId>junit</artifactId>
 			<version>3.8.1</version>
 			<scope>test</scope>
